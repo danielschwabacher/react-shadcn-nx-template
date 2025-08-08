@@ -1,0 +1,19 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "default",
+  "rsc": false,
+  "tsx": true,
+  "tailwind": {
+    "config": "",
+    "css": "libs/shared-components/src/styles/globals.css",
+    "baseColor": "slate",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "aliases": {
+    "components": "libs/shared-components/src/components",
+    "utils": "libs/shared-components/src/lib/utils",
+    "@/components": "libs/shared-components/src/components",
+    "@/lib": "libs/shared-components/src/lib"
+  }
+}
